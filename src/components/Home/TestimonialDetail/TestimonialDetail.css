@@ -1,0 +1,10 @@
+.card-body {
+  box-shadow: 5px 5px 25px gray;
+  border-radius: 10px;
+  color: black;
+  margin-bottom: -90px;
+  height: 300px;
+}
+.test-container {
+  margin-bottom: 100px;
+}
